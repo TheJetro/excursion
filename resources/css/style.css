@@ -5,7 +5,6 @@
   color: white;
 }
 h1{
-  font-weight: normal;
   font-size: 50px;
 }
 h2{
@@ -15,10 +14,12 @@ h2{
 h3{
   font-size: 21px;
   color: gray;
+  font-weight: normal;
 }
 a{
   color: aquamarine;
   font-size: 16px;
+  font-weight: normal;
 }
 #copyright{
   text-align: right;
